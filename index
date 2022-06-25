@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+	<head>
+		<title>HTML</title>
+		<meta charset= "utf-8"/>
+	</head>
+	<body>
+		<h1>Titulo principal del documento</h1>
+		<h2>Titulo de contenido</h2>
+		<h3>Subtitulo de contenido</h3>
+		<p> Ir al <a href="documento 2.html">documento 2</a></p>
+		<p>Lorem Ipsum es simplemente el texto de relleno
+		de las imprentas y archivos de texto. Lorem Ipsum ha sido el 
+		texto de relleno estándar de las industrias desde el año 1500,
+		cuando un impresor (N. del T. persona que se dedica a la imprenta) 
+		desconocido usó una galería de textos y los mezcló de tal manera que 
+		logró hacer un libro de textos especimen.</p>
+		<p>Lorem Ipsum es simplemente el texto de relleno
+		de las imprentas y archivos de texto. Lorem Ipsum ha sido el 
+		texto de relleno estándar de las industrias desde el año 1500,
+		cuando un impresor (N. del T. persona que se dedica a la imprenta) 
+		desconocido usó una galería de textos y los mezcló de tal manera que 
+		logró hacer un libro de textos especimen.</p>
+		<ul>
+			<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+			</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+			</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+			</li>
+		</ul>
+		<ol>
+			<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+			</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+			</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+			</li>
+		</ol>
+		<p>Fuente: <a href="https://es.lipsum.com/feed/html"target="new">lipsum.com</a></p>
+		
+		<p>Lorem Ipsum es simplemente el texto de relleno
+		de las imprentas y archivos de texto. Lorem Ipsum ha sido el 
+		texto de relleno estándar de las industrias desde el año 1500,
+		cuando un impresor (N. del T. persona que se dedica a la imprenta) 
+		desconocido usó una galería de textos y los mezcló de tal manera que 
+		logró hacer un libro de textos especimen.</p>
+	</body>
+</html>
